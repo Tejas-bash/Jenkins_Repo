@@ -6,3 +6,6 @@ def calculate_rectangle_area():
 
 area = calculate_rectangle_area()
 print("The area of the rectangle is:", area)
+
+
+print("Program Executes Very Well")
